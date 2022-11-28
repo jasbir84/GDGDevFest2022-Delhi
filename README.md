@@ -1,5 +1,5 @@
 # GDGDevFest2022-Delhi
-Contains the Slides and Content presented on Pulumi IaC Code Centric Approach
+Contains the Slides and Content presented on Pulumi IaC Code Centric Approach.
 
 
 Author:
